@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67818145861",
+    "project_id": "ricardo-te-ayuda",
+    "storage_bucket": "ricardo-te-ayuda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67818145861:android:e6c1677cc8960bd58b7b2c",
+        "android_client_info": {
+          "package_name": "com.ricardoasesor.asesorcarrosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNaiFbJ9n_93CLSx0bGTbOWUibBTZ-II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
